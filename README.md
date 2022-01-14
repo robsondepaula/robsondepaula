@@ -1,4 +1,8 @@
-## &#x1f4c8; GitHub Stats
+<div align="center">
 
-| <a href="https://github.com/robsondepaula/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=robsondepaula&show_icons=true&count_private=true" alt="Robson's github stats" /></a> | <a href="https://github.com/robsondepaula/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondepaula&layout=compact&hide=html,typescript" /></a> |
-| ------------- | ------------- |
+<p>
+  <img width="40%" src="https://github.com/robsondepaula/github-stats/blob/master/generated/overview.svg"/>
+  <img style="margin-left: 5%" width="40%" src="https://github.com/robsondepaula/github-stats/blob/master/generated/languages.svg"/>
+</p>
+
+</div>
